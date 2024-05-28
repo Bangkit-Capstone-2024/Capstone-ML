@@ -1,0 +1,14 @@
+baby_bed
+baby_car_seat
+baby_folding_fence
+bathtub
+booster_seats
+bouncer
+breast_pump
+carrier
+earmuffs
+ride_ons
+rocking_horse
+sterilizer
+stroller
+walkers
